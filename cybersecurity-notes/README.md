@@ -43,7 +43,7 @@ Both are protocols used to transfer information between a web browser and a webs
 
 ## TryHackMe Progress
 
-### Search Skills — Completed
+### Search Skills 
 
 Topics explored:
 
@@ -63,7 +63,7 @@ Continue learning cybersecurity fundamentals and practise the concepts in author
 
 ## TryHackMe Progress
 
-### 1. Search Skills — Completed
+### 1. Search Skills 
 
 Topics explored:
 
@@ -73,7 +73,7 @@ Topics explored:
 - **Technical documentation:** Using manuals to understand tools and commands.
 - **GitHub:** Organizing and sharing technical work.
 
-### 2. Web Application Basics — Completed
+### 2. Web Application Basics 
 
 Topics studied:
 
@@ -95,7 +95,7 @@ I learned the fundamentals of web application communication, including URLs, HTT
 
 Continue learning web technologies and cybersecurity fundamentals, and practise these concepts in authorized training environments.
 
-### 3. Linux Fundamentals (Pt1) — Completed
+### 3. Linux Fundamentals (Pt1)
 
 Topics studied:
 
@@ -112,7 +112,7 @@ I practised using Linux terminal commands to navigate directories, locate files,
 
 Continue learning Linux commands, file management, permissions, and other operating system fundamentals.
 
-### 4. Junior Security Analyst Intro — Completed
+### 4. Junior Security Analyst Intro 
 
 Topics studied:
 
@@ -128,7 +128,7 @@ I learned about the role of a junior security analyst and the purpose of a Secur
 
 Continue learning security operations, alert investigation, and incident response fundamentals through authorized training labs.
 
-### 5. SOC Fundamentals — Completed
+### 5. SOC Fundamentals 
 
 Topics studied:
 
@@ -147,7 +147,7 @@ I learned that effective security operations depend on people, processes, and te
 
 Strengthen my understanding of security alerts, incident investigation, and the tools used by SOC analysts through hands-on practice.
 
-### 6. SOC Role in Blue Team — Completed
+### 6. SOC Role in Blue Team 
 
 Topics studied:
 
@@ -163,4 +163,55 @@ I learned about defensive cybersecurity roles, the hierarchy of security respons
 ### Career Goal
 
 Continue developing my cybersecurity fundamentals, investigation skills, and practical experience through hands-on training labs.
+
+### 7. SOC L1 Alert Triage
+
+Topics studied:
+
+- **Events and Alerts:** Understanding the difference between security events and alerts.
+- **Alert Properties:** Learning which details help analysts understand and investigate alerts.
+- **Alert Prioritisation:** Understanding how to decide which alerts need attention first.
+- **Alert Triage:** Learning a systematic approach to reviewing alerts and deciding on the appropriate next steps.
+
+### Key Learning
+
+I learned that SOC analysts need to assess alert details, consider severity and potential impact, prioritise investigations, and determine whether an alert requires further investigation or escalation.
+
+### Next Goal
+
+Practise analysing security alerts, documenting evidence, distinguishing true positives from false positives, and explaining triage decisions clearly.
+
+## 8. SOC L1 Alert Reporting
+
+**Platform:** TryHackMe  
+**Status:** Completed (100%)
+
+### Key Topics Learned
+- **Alert Funnel:** Understanding how alerts move through the security operations workflow.
+- **Reporting Guide:** Documenting alerts, investigation steps, evidence, and conclusions clearly.
+- **Escalation Guide:** Recognizing when an alert needs further investigation by a higher-level analyst or another team.
+- **SOC Communication:** Communicating security findings accurately and professionally.
+
+### Key Takeaways
+- Reports should be clear, factual, and supported by evidence.
+- Escalation helps ensure potentially serious incidents receive appropriate attention.
+- Effective SOC communication supports timely investigation and response.
+- Analysts should follow organizational procedures when documenting, escalating, and closing alerts.
+
+ ### 9. Senior Security Analyst Intro
+
+**Platform:** TryHackMe  
+**Status:** Completed (100%)
+
+### Key Topics Learned
+- Career progression from SOC Level 1 to SOC Level 2.
+- Advanced investigation and analysis responsibilities.
+- Differences between L1 alert triage and L2 investigations.
+- SOC L2 daily workflow and career development.
+
+### Key Takeaways
+- SOC L1 focuses on initial alert triage and identifying suspicious activity.
+- SOC L2 performs deeper investigations and helps determine the scope and impact of incidents.
+- Analysts should correlate evidence from multiple sources before reaching conclusions.
+- Clear documentation and communication remain important at every SOC level.
 
